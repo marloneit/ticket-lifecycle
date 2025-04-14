@@ -13,7 +13,7 @@
  <p>
  Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking. 
  </p>
- <img src="https://i.imgur.com/lRduIb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/jD3VYIo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  </p>
  <br />
  <p>
@@ -30,6 +30,6 @@
  </p>
  <br />
  <p>
- <img src="https://i.imgur.com/uJtuLaK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/NyJMVyO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  </p>
  <p
